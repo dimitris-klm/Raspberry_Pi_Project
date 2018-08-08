@@ -1,0 +1,8 @@
+Python Libraries:
+
+1. paho-mqtt --> https://pypi.org/project/paho-mqtt/
+2. Python SDK from Hologram --> https://hologram.io/docs/reference/cloud/python-sdk/
+3. pynmea2 --> https://pypi.org/project/pynmea2/
+4. hx711 --> https://pypi.org/project/hx711/
+5. picamera --> https://pypi.org/project/picamera/
+6. pymongo --> https://pypi.org/project/pymongo/
